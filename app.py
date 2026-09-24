@@ -41,7 +41,7 @@ if query:
             "tokens": query_reply["tokens"]
         })
     except Exception as e:
-        st.error("Any Problem 'Please Try Again'")
+        st.error(f"Error : {e}")
 
 if len(st.session_state.chat_history) == 0:
     st.info("Ask only college related query — Example 'how much is the hostel fee'")

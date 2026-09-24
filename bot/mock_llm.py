@@ -2,13 +2,17 @@ import time
 import os
 from dotenv import load_dotenv
 from groq import Groq
-
+import streamlit as st
 
 load_dotenv()
+try:
+    api_key = st.secrets["GROQ_API_KEY"]
+except Exception:
+    api_key = os.environ.get("GROQ_API_KEY")
 def mock_llm(query):
     start_time = time.time()
     client = Groq(
-    api_key=os.environ.get("GROQ_API_KEY"),
+    api_key=api_key
     )
 
     chat_completion = client.chat.completions.create(
