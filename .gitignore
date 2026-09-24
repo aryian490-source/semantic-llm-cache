@@ -1,0 +1,12 @@
+# Secrets — kabhi commit mat karo
+.env
+# Virtual environment — bahut bada hota hai, khud install ho jata hai
+venv/
+
+__pycache__/
+*.pyc
+
+*.cache/
+
+.DS_Store
+.vscode/

@@ -1,0 +1,301 @@
+query,true_intent,source,latency,tokens
+naya admission kaise hoga,admission_process,MISS,1.835587501525879,1040
+what time does the hostel gate close,hostel_timings,MISS,0.8497340679168701,322
+reappear exam kab hota hai,exam_reappear,MISS,1.4610564708709717,663
+am I eligible for scholarship,scholarship_eligibility,MISS,0.9852073192596436,258
+mba ki fees kitni hai,mba_fees,MISS,1.993624210357666,1221
+how many books can I issue,library_book_issue,MISS,0.9837868213653564,505
+back paper ka process kya hai,exam_reappear,MISS,2.6799652576446533,1686
+highest package kitna hai,placement_average_package,MISS,1.4055516719818115,584
+scholarship me kitne paise milte hain,scholarship_amount,MISS,1.9854490756988525,1173
+hostel me room kaise milega,hostel_rooms_availability,MISS,1.9088616371154785,946
+job placement process batao,placement_process,MISS,1.8390347957611084,961
+how much does mba cost,mba_fees,MISS,3.0189619064331055,930
+highest package kitna hai,placement_average_package,HIT,0,0
+is hostel room available,hostel_rooms_availability,MISS,6.727443695068359,393
+what is the fee for mba,mba_fees,HIT,0,0
+mba course ki fees batao,mba_fees,MISS,2.988809108734131,802
+placement ke rounds kya hote hain,placement_process,MISS,5.5710225105285645,713
+kitne din ke liye book milti hai,library_book_issue,MISS,66.10987830162048,407
+am I eligible for scholarship,scholarship_eligibility,HIT,0,0
+admission kaise lein,admission_process,MISS,1.8676059246063232,1163
+am I eligible for scholarship,scholarship_eligibility,HIT,0,0
+how many books can I issue,library_book_issue,HIT,0,0
+transport facility available hai kya,transport_facility,MISS,1.396902084350586,677
+how to pay college fees,fee_payment_mode,MISS,1.5017356872558594,720
+how to apply for admission,admission_process,MISS,2.182222843170166,1093
+transport facility available hai kya,transport_facility,HIT,0,0
+attendance kam ho to kya hoga,attendance_criteria,MISS,1.481243371963501,782
+admission process batao,admission_process,MISS,1.4572796821594238,928
+exams kab shuru honge,exam_schedule,MISS,1.0753488540649414,555
+how do I get a hostel room,hostel_rooms_availability,HIT,0,0
+what is the fee for mba,mba_fees,HIT,0,0
+scholarship amount kitni hoti hai,scholarship_amount,MISS,2.0551559925079346,1175
+hostel room allotment kaise hota hai,hostel_rooms_availability,HIT,0,0
+scholarship me kitne paise milte hain,scholarship_amount,HIT,0,0
+how to apply for supplementary exam,exam_reappear,MISS,1.645280361175537,1145
+when are the semester exams,exam_schedule,MISS,0.8832159042358398,403
+is hostel room available,hostel_rooms_availability,HIT,0,0
+hostel fee kitna hai,hostel_fees,MISS,0.7557408809661865,239
+how much is the hostel fee,hostel_fees,HIT,0,0
+is hostel room available,hostel_rooms_availability,HIT,0,0
+fees kaise bhare,fee_payment_mode,MISS,1.6985058784484863,987
+what is the fee for mba,mba_fees,HIT,0,0
+back paper ka process kya hai,exam_reappear,HIT,0,0
+exam schedule kab aayega,exam_schedule,MISS,7.3936450481414795,372
+id card lost kaise banwayen,id_card_lost,MISS,3.732801675796509,998
+how do I get admission here,admission_process,MISS,8.458067893981934,1531
+back paper ka process kya hai,exam_reappear,HIT,0,0
+scholarship ke liye kya requirement hai,scholarship_eligibility,MISS,10.165034770965576,922
+admission ki last date kya hai,admission_last_date,MISS,9.3678297996521,427
+mba course ki fees batao,mba_fees,HIT,0,0
+fee payment online ho sakti hai kya,fee_payment_mode,MISS,1.2914423942565918,612
+what is hostel cost per year,hostel_fees,MISS,3.633859872817993,886
+when is the admission deadline,admission_last_date,MISS,8.824723720550537,206
+scholarship ke liye kya requirement hai,scholarship_eligibility,HIT,0,0
+hostel me kitne baje tak aa sakte hain,hostel_timings,MISS,0.9554774761199951,412
+hostel me rehne ka kharcha,hostel_fees,MISS,1.571420669555664,842
+how much does btech cost,btech_fees,MISS,9.062474727630615,746
+hostel me room kaise milega,hostel_rooms_availability,HIT,0,0
+how to pay college fees,fee_payment_mode,HIT,0,0
+reappear exam kab hota hai,exam_reappear,HIT,0,0
+what is the minimum attendance required,attendance_criteria,MISS,2.553892135620117,723
+college me admission ka process kya hai,admission_process,MISS,9.37107801437378,1199
+attendance criteria kya hai,attendance_criteria,MISS,5.4856767654418945,1050
+btech fee structure,btech_fees,MISS,6.668236970901489,853
+naya admission kaise hoga,admission_process,HIT,0,0
+attendance kam ho to kya hoga,attendance_criteria,HIT,0,0
+bus pass kaise banega,transport_facility,MISS,10.02961778640747,991
+how much is the hostel fee,hostel_fees,HIT,0,0
+how much is the hostel fee,hostel_fees,HIT,0,0
+scholarship kaise milegi,scholarship_eligibility,MISS,6.971000671386719,780
+average package kitna hai,placement_average_package,MISS,3.21516752243042,1234
+admission process batao,admission_process,HIT,0,0
+exam schedule kab aayega,exam_schedule,HIT,0,0
+exam ka time table kab milega,exam_schedule,MISS,8.812740802764893,472
+college me admission ka process kya hai,admission_process,HIT,0,0
+placement me kitni salary milti hai,placement_average_package,MISS,6.176459550857544,1099
+how do I get admission here,admission_process,HIT,0,0
+how to get duplicate id card,id_card_lost,MISS,8.311240911483765,967
+admission process batao,admission_process,HIT,0,0
+is there a college bus facility,transport_facility,MISS,6.398330926895142,375
+library se kitni books mil sakti hain,library_book_issue,MISS,1.4854364395141602,424
+late fee kitna lagta hai,fee_late_payment,MISS,4.655871629714966,773
+kitne din ke liye book milti hai,library_book_issue,HIT,0,0
+college bus hai kya,transport_facility,MISS,5.360525846481323,420
+id card kho gaya kya karu,id_card_lost,MISS,1.4926059246063232,698
+how much does btech cost,btech_fees,HIT,0,0
+what is the fee for mba,mba_fees,HIT,0,0
+when are the semester exams,exam_schedule,HIT,0,0
+attendance criteria kya hai,attendance_criteria,HIT,0,0
+naya admission kaise hoga,admission_process,HIT,0,0
+fee payment mode kya hai,fee_payment_mode,HIT,0,0
+how to get duplicate id card,id_card_lost,HIT,0,0
+admission kaise lein,admission_process,HIT,0,0
+admission kaise lein,admission_process,HIT,0,0
+exams kab shuru honge,exam_schedule,HIT,0,0
+admission ke liye aakhri tareekh,admission_last_date,MISS,6.848162651062012,694
+admission kaise lein,admission_process,HIT,0,0
+hostel fee kitna hai,hostel_fees,HIT,0,0
+id card kho gaya kya karu,id_card_lost,HIT,0,0
+is there a college bus facility,transport_facility,HIT,0,0
+reappear exam kab hota hai,exam_reappear,HIT,0,0
+hostel ka kharcha batao,hostel_fees,HIT,0,0
+btech ki fees kitni hai,btech_fees,MISS,4.10158896446228,331
+datesheet kab release hogi,exam_schedule,MISS,1.079265832901001,234
+engineering course ki fees batao,btech_fees,MISS,3.933256149291992,925
+library kitne baje khulti hai,library_timing,MISS,6.599713087081909,485
+scholarship kis ko milti hai,scholarship_eligibility,HIT,0,0
+what is the minimum attendance required,attendance_criteria,HIT,0,0
+kitni attendance honi chahiye exam ke liye,attendance_criteria,MISS,3.9036340713500977,911
+when are the semester exams,exam_schedule,HIT,0,0
+how to pay college fees,fee_payment_mode,HIT,0,0
+mba ki fees kitni hai,mba_fees,HIT,0,0
+how to pay college fees,fee_payment_mode,HIT,0,0
+hostel gate kab band hota hai,hostel_timings,MISS,6.455986022949219,469
+how to pay college fees,fee_payment_mode,HIT,0,0
+exam ka time table kab milega,exam_schedule,HIT,0,0
+hostel curfew time,hostel_timings,MISS,3.1816914081573486,582
+library se kitni books mil sakti hain,library_book_issue,HIT,0,0
+reappear exam kab hota hai,exam_reappear,HIT,0,0
+admission ki last date kya hai,admission_last_date,HIT,0,0
+kitni scholarship milti hai,scholarship_amount,HIT,0,0
+engineering course ki fees batao,btech_fees,HIT,0,0
+fees jama karne ka tareeka,fee_payment_mode,MISS,4.138912200927734,906
+college me admission ka process kya hai,admission_process,HIT,0,0
+naya admission kaise hoga,admission_process,HIT,0,0
+last date for admission form,admission_last_date,MISS,4.61474871635437,635
+fees kaise bhare,fee_payment_mode,HIT,0,0
+exams kab shuru honge,exam_schedule,HIT,0,0
+exams kab shuru honge,exam_schedule,HIT,0,0
+bus pass kaise banega,transport_facility,HIT,0,0
+what is the minimum attendance required,attendance_criteria,HIT,0,0
+attendance criteria kya hai,attendance_criteria,HIT,0,0
+transport facility available hai kya,transport_facility,HIT,0,0
+mba ki fees kitni hai,mba_fees,HIT,0,0
+library open kab tak rehti hai,library_timing,MISS,6.414671421051025,371
+hostel ka kharcha batao,hostel_fees,HIT,0,0
+when are the semester exams,exam_schedule,HIT,0,0
+what is the average salary package,placement_average_package,MISS,0.9366796016693115,177
+what is the minimum attendance required,attendance_criteria,HIT,0,0
+job placement process batao,placement_process,HIT,0,0
+last date for admission form,admission_last_date,HIT,0,0
+attendance kitni chahiye,attendance_criteria,MISS,2.6277503967285156,723
+how to apply for admission,admission_process,HIT,0,0
+scholarship kaise milegi,scholarship_eligibility,HIT,0,0
+scholarship eligibility criteria,scholarship_eligibility,MISS,4.611885070800781,777
+library kab band hoti hai,library_timing,MISS,4.15770411491394,371
+single room mil sakta hai kya hostel me,hostel_rooms_availability,MISS,4.362125396728516,668
+campus placement kaise hota hai,placement_process,MISS,6.614628314971924,901
+how many books can I issue,library_book_issue,HIT,0,0
+mba ki fees kitni hai,mba_fees,HIT,0,0
+exam me fail hone ke baad kya hota hai,exam_reappear,MISS,4.734050512313843,839
+attendance criteria kya hai,attendance_criteria,HIT,0,0
+how does placement work here,placement_process,MISS,8.005120038986206,835
+admission ki last date kya hai,admission_last_date,HIT,0,0
+admission ke liye aakhri tareekh,admission_last_date,HIT,0,0
+book issue karne ka rule kya hai,library_book_issue,MISS,3.3830389976501465,819
+id card kho gaya kya karu,id_card_lost,HIT,0,0
+admission process batao,admission_process,HIT,0,0
+naya admission kaise hoga,admission_process,HIT,0,0
+hostel me rehne ka kharcha,hostel_fees,HIT,0,0
+back paper ka process kya hai,exam_reappear,HIT,0,0
+how do I get admission here,admission_process,HIT,0,0
+highest package kitna hai,placement_average_package,HIT,0,0
+what is the average salary package,placement_average_package,HIT,0,0
+hostel fee kitna hai,hostel_fees,HIT,0,0
+college me admission ka process kya hai,admission_process,HIT,0,0
+scholarship kis ko milti hai,scholarship_eligibility,HIT,0,0
+how much does btech cost,btech_fees,HIT,0,0
+how many books can I issue,library_book_issue,HIT,0,0
+what is the average salary package,placement_average_package,HIT,0,0
+attendance kitni chahiye,attendance_criteria,HIT,0,0
+scholarship amount kitni hoti hai,scholarship_amount,HIT,0,0
+is hostel room available,hostel_rooms_availability,HIT,0,0
+how do I get admission here,admission_process,HIT,0,0
+fees kaise bhare,fee_payment_mode,HIT,0,0
+id card kho gaya kya karu,id_card_lost,HIT,0,0
+transport facility available hai kya,transport_facility,HIT,0,0
+how much is the hostel fee,hostel_fees,HIT,0,0
+hostel gate kab band hota hai,hostel_timings,HIT,0,0
+kitni scholarship milti hai,scholarship_amount,HIT,0,0
+hostel ka kharcha batao,hostel_fees,HIT,0,0
+what are the library timings,library_timing,MISS,7.34321141242981,321
+hostel gate kab band hota hai,hostel_timings,HIT,0,0
+college se ghar tak bus milti hai kya,transport_facility,MISS,1.8624398708343506,812
+how to apply for admission,admission_process,HIT,0,0
+how does placement work here,placement_process,HIT,0,0
+single room mil sakta hai kya hostel me,hostel_rooms_availability,HIT,0,0
+how to get duplicate id card,id_card_lost,HIT,0,0
+mba course ki fees batao,mba_fees,HIT,0,0
+college bus hai kya,transport_facility,HIT,0,0
+single room mil sakta hai kya hostel me,hostel_rooms_availability,HIT,0,0
+library kab band hoti hai,library_timing,HIT,0,0
+library open kab tak rehti hai,library_timing,HIT,0,0
+exams kab shuru honge,exam_schedule,HIT,0,0
+single room mil sakta hai kya hostel me,hostel_rooms_availability,HIT,0,0
+scholarship kis ko milti hai,scholarship_eligibility,HIT,0,0
+placement ke rounds kya hote hain,placement_process,HIT,0,0
+admission kaise lein,admission_process,HIT,0,0
+highest package kitna hai,placement_average_package,HIT,0,0
+how much does btech cost,btech_fees,HIT,0,0
+placement ke rounds kya hote hain,placement_process,HIT,0,0
+exam schedule kab aayega,exam_schedule,HIT,0,0
+kitne din ke liye book milti hai,library_book_issue,HIT,0,0
+admission kaise lein,admission_process,HIT,0,0
+highest package kitna hai,placement_average_package,HIT,0,0
+how much is the hostel fee,hostel_fees,HIT,0,0
+fee payment mode kya hai,fee_payment_mode,HIT,0,0
+highest package kitna hai,placement_average_package,HIT,0,0
+hostel room allotment kaise hota hai,hostel_rooms_availability,HIT,0,0
+book issue karne ka rule kya hai,library_book_issue,HIT,0,0
+how much is the hostel fee,hostel_fees,HIT,0,0
+what are the library timings,library_timing,HIT,0,0
+last date for admission form,admission_last_date,HIT,0,0
+exam ka time table kab milega,exam_schedule,HIT,0,0
+how to apply for supplementary exam,exam_reappear,HIT,0,0
+kitne din ke liye book milti hai,library_book_issue,HIT,0,0
+exam ka time table kab milega,exam_schedule,HIT,0,0
+exam ka time table kab milega,exam_schedule,HIT,0,0
+fees kaise bhare,fee_payment_mode,HIT,0,0
+college se ghar tak bus milti hai kya,transport_facility,HIT,0,0
+placement ke rounds kya hote hain,placement_process,HIT,0,0
+what is the fee for mba,mba_fees,HIT,0,0
+naya admission kaise hoga,admission_process,HIT,0,0
+btech fee structure,btech_fees,HIT,0,0
+library fine kitna lagta hai,library_book_issue,MISS,6.019570827484131,302
+how do I get admission here,admission_process,HIT,0,0
+hostel fee kitna hai,hostel_fees,HIT,0,0
+library kab band hoti hai,library_timing,HIT,0,0
+engineering course ki fees batao,btech_fees,HIT,0,0
+id card dobara kaise banega,id_card_lost,MISS,2.5037965774536133,850
+hostel me room kaise milega,hostel_rooms_availability,HIT,0,0
+how much is the hostel fee,hostel_fees,HIT,0,0
+library fine kitna lagta hai,library_book_issue,HIT,0,0
+how much does btech cost,btech_fees,HIT,0,0
+placement ke rounds kya hote hain,placement_process,HIT,0,0
+how many books can I issue,library_book_issue,HIT,0,0
+when is the admission deadline,admission_last_date,HIT,0,0
+kitne din ke liye book milti hai,library_book_issue,HIT,0,0
+how to apply for admission,admission_process,HIT,0,0
+last date for admission form,admission_last_date,HIT,0,0
+hostel me kitne baje tak aa sakte hain,hostel_timings,HIT,0,0
+fees late bharne par kya hota hai,fee_late_payment,MISS,3.6547772884368896,752
+library kab band hoti hai,library_timing,HIT,0,0
+library kab band hoti hai,library_timing,HIT,0,0
+is hostel room available,hostel_rooms_availability,HIT,0,0
+scholarship me kitne paise milte hain,scholarship_amount,HIT,0,0
+transport facility available hai kya,transport_facility,HIT,0,0
+average ctc kya hai,placement_average_package,MISS,8.232483148574829,1029
+library kitne baje khulti hai,library_timing,HIT,0,0
+exam schedule kab aayega,exam_schedule,HIT,0,0
+transport facility available hai kya,transport_facility,HIT,0,0
+highest package kitna hai,placement_average_package,HIT,0,0
+college bus hai kya,transport_facility,HIT,0,0
+hostel me room kaise milega,hostel_rooms_availability,HIT,0,0
+how many books can I issue,library_book_issue,HIT,0,0
+when are the semester exams,exam_schedule,HIT,0,0
+transport facility available hai kya,transport_facility,HIT,0,0
+how to get duplicate id card,id_card_lost,HIT,0,0
+bus pass kaise banega,transport_facility,HIT,0,0
+reappear exam kab hota hai,exam_reappear,HIT,0,0
+library ka time batao,library_timing,MISS,6.346835613250732,265
+library kitne baje khulti hai,library_timing,HIT,0,0
+id card kho gaya kya karu,id_card_lost,HIT,0,0
+what is hostel cost per year,hostel_fees,HIT,0,0
+id card kho gaya kya karu,id_card_lost,HIT,0,0
+when are the semester exams,exam_schedule,HIT,0,0
+reappear exam kab hota hai,exam_reappear,HIT,0,0
+college bus hai kya,transport_facility,HIT,0,0
+bus pass kaise banega,transport_facility,HIT,0,0
+is hostel room available,hostel_rooms_availability,HIT,0,0
+exam me fail hone ke baad kya hota hai,exam_reappear,HIT,0,0
+how much does mba cost,mba_fees,HIT,0,0
+fees time pe nahi bhari to,fee_late_payment,MISS,1.4919800758361816,846
+admission process batao,admission_process,HIT,0,0
+hostel ki fees kitni hai,hostel_fees,HIT,0,0
+id card kho gaya kya karu,id_card_lost,HIT,0,0
+fees time pe nahi bhari to,fee_late_payment,HIT,0,0
+engineering course ki fees batao,btech_fees,HIT,0,0
+mba fee structure kya hai,mba_fees,MISS,5.058689832687378,941
+scholarship ke liye kya requirement hai,scholarship_eligibility,HIT,0,0
+id card dobara kaise banega,id_card_lost,HIT,0,0
+mba fee structure kya hai,mba_fees,HIT,0,0
+reappear exam kab hota hai,exam_reappear,HIT,0,0
+hostel curfew time,hostel_timings,HIT,0,0
+hostel curfew time,hostel_timings,HIT,0,0
+hostel ki fees kitni hai,hostel_fees,HIT,0,0
+hostel me room kaise milega,hostel_rooms_availability,HIT,0,0
+scholarship kis ko milti hai,scholarship_eligibility,HIT,0,0
+b tech course fee kitni h,btech_fees,MISS,7.616907358169556,715
+mba fee structure kya hai,mba_fees,HIT,0,0
+datesheet kab release hogi,exam_schedule,HIT,0,0
+hostel ki fees kitni hai,hostel_fees,HIT,0,0
+kitni attendance honi chahiye exam ke liye,attendance_criteria,HIT,0,0
+b tech course fee kitni h,btech_fees,HIT,0,0
+library kab band hoti hai,library_timing,HIT,0,0
+what is the fee for btech,btech_fees,HIT,0,0
+what is the fee for btech,btech_fees,HIT,0,0
+fail hone par dobara exam kaise doon,exam_reappear,MISS,5.208433151245117,1230
+btech fee structure,btech_fees,HIT,0,0
+exam schedule kab aayega,exam_schedule,HIT,0,0

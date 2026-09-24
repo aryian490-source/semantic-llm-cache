@@ -124,16 +124,6 @@ python -m eval.analyze_results
 
 ---
 
-## 🔮 Future improvements
-
-- Metadata isolation (language / model-version aware cache keys) so semantically identical queries in different contexts aren't conflated
-- TTL + cache invalidation on prompt-version change
-- FAISS-backed vector index for scale beyond in-memory NumPy search
-- Adaptive per-intent thresholds instead of one global threshold
-- Cost-saved dashboard in real currency using live provider pricing
-
----
-
 ## 🧑‍💻 What this project demonstrates
 
 - Semantic search / embeddings applied to a real cost-reduction problem

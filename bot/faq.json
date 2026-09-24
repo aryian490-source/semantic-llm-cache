@@ -1,0 +1,224 @@
+{
+  "intents": [
+    {
+      "intent_id": "admission_process",
+      "answer": "Admission ke liye pehle online form bharo college website par, uske baad entrance score aur documents verify hote hain, fir merit list ke hisaab se seat allot hoti hai.",
+      "paraphrases": [
+        "admission kaise lein",
+        "how to apply for admission",
+        "college me admission ka process kya hai",
+        "admission process batao",
+        "how do I get admission here",
+        "naya admission kaise hoga"
+      ]
+    },
+    {
+      "intent_id": "admission_last_date",
+      "answer": "Is saal admission ki last date 30 June hai. Uske baad sirf management quota me seats available rahengi agar bachi hon.",
+      "paraphrases": [
+        "admission ki last date kya hai",
+        "when is the admission deadline",
+        "kab tak form bhar sakte hain",
+        "last date for admission form",
+        "admission ke liye aakhri tareekh"
+      ]
+    },
+    {
+      "intent_id": "btech_fees",
+      "answer": "B.Tech ki fees ₹1,20,000 per year hai, isme tuition aur exam fees dono shamil hain. Hostel aur mess fees alag se lagti hai.",
+      "paraphrases": [
+        "btech ki fees kitni hai",
+        "what is the fee for btech",
+        "engineering course ki fees batao",
+        "b tech course fee kitni h",
+        "how much does btech cost",
+        "btech fee structure"
+      ]
+    },
+    {
+      "intent_id": "mba_fees",
+      "answer": "MBA ki fees ₹2,50,000 per year hai. Isme placement cell aur workshop charges bhi included hain.",
+      "paraphrases": [
+        "mba ki fees kitni hai",
+        "what is the fee for mba",
+        "mba course ki fees batao",
+        "mba fee structure kya hai",
+        "how much does mba cost"
+      ]
+    },
+    {
+      "intent_id": "hostel_fees",
+      "answer": "Hostel fees ₹60,000 per year hai, jisme room aur mess dono included hain. AC room ke liye extra ₹15,000 lagte hain.",
+      "paraphrases": [
+        "hostel ki fees kitni hai",
+        "how much is the hostel fee",
+        "hostel ka kharcha batao",
+        "hostel fee kitna hai",
+        "what is hostel cost per year",
+        "hostel me rehne ka kharcha"
+      ]
+    },
+    {
+      "intent_id": "hostel_timings",
+      "answer": "Hostel ka entry gate raat 9 baje band hota hai aur subah 6 baje khulta hai. Late aane ke liye warden se pehle permission leni padti hai.",
+      "paraphrases": [
+        "hostel ke timings kya hain",
+        "what time does the hostel gate close",
+        "hostel me kitne baje tak aa sakte hain",
+        "hostel curfew time",
+        "hostel gate kab band hota hai"
+      ]
+    },
+    {
+      "intent_id": "hostel_rooms_availability",
+      "answer": "Hostel me single aur double sharing dono room available hain. Allotment first-come-first-serve basis par hota hai admission ke baad.",
+      "paraphrases": [
+        "hostel me room kaise milega",
+        "is hostel room available",
+        "single room mil sakta hai kya hostel me",
+        "hostel room allotment kaise hota hai",
+        "how do I get a hostel room"
+      ]
+    },
+    {
+      "intent_id": "exam_schedule",
+      "answer": "Semester exams December aur May me hote hain. Detailed datesheet exam se 3 hafte pehle notice board aur website par aata hai.",
+      "paraphrases": [
+        "exam schedule kab aayega",
+        "when are the semester exams",
+        "exam ka time table kab milega",
+        "datesheet kab release hogi",
+        "exams kab shuru honge"
+      ]
+    },
+    {
+      "intent_id": "exam_reappear",
+      "answer": "Agar kisi subject me fail ho jao to reappear/back paper exam agle semester ke exam ke saath hi hota hai. Alag se form bharna padta hai.",
+      "paraphrases": [
+        "exam me fail hone ke baad kya hota hai",
+        "reappear exam kab hota hai",
+        "back paper ka process kya hai",
+        "how to apply for supplementary exam",
+        "fail hone par dobara exam kaise doon"
+      ]
+    },
+    {
+      "intent_id": "scholarship_eligibility",
+      "answer": "Scholarship un students ko milti hai jinke 12th me 85% se zyada marks hain ya jo economically weaker section se hain. Documents ke saath form bharna hota hai.",
+      "paraphrases": [
+        "scholarship kaise milegi",
+        "am I eligible for scholarship",
+        "scholarship ke liye kya requirement hai",
+        "scholarship eligibility criteria",
+        "scholarship kis ko milti hai"
+      ]
+    },
+    {
+      "intent_id": "scholarship_amount",
+      "answer": "Scholarship ki amount ₹20,000 se ₹80,000 tak hoti hai, category aur marks ke hisaab se decide hoti hai.",
+      "paraphrases": [
+        "scholarship me kitne paise milte hain",
+        "how much is the scholarship amount",
+        "scholarship amount kitni hoti hai",
+        "kitni scholarship milti hai"
+      ]
+    },
+    {
+      "intent_id": "library_timing",
+      "answer": "Library subah 8 baje se raat 10 baje tak khuli rehti hai, Sunday ko bhi. Exam ke time me timing badh jati hai.",
+      "paraphrases": [
+        "library kitne baje khulti hai",
+        "what are the library timings",
+        "library kab band hoti hai",
+        "library open kab tak rehti hai",
+        "library ka time batao"
+      ]
+    },
+    {
+      "intent_id": "library_book_issue",
+      "answer": "Ek student ek time me 3 books issue kara sakta hai, 15 din ke liye. Late return par per day ₹5 fine lagta hai.",
+      "paraphrases": [
+        "library se kitni books mil sakti hain",
+        "how many books can I issue",
+        "book issue karne ka rule kya hai",
+        "library fine kitna lagta hai",
+        "kitne din ke liye book milti hai"
+      ]
+    },
+    {
+      "intent_id": "placement_process",
+      "answer": "Placement cell final year me companies invite karta hai. Process me aptitude test, group discussion aur interview hota hai.",
+      "paraphrases": [
+        "placement process kya hai",
+        "how does placement work here",
+        "campus placement kaise hota hai",
+        "placement ke rounds kya hote hain",
+        "job placement process batao"
+      ]
+    },
+    {
+      "intent_id": "placement_average_package",
+      "answer": "Average package last year ₹4.5 LPA tha, aur highest package ₹18 LPA tha.",
+      "paraphrases": [
+        "average package kitna hai",
+        "what is the average salary package",
+        "placement me kitni salary milti hai",
+        "highest package kitna hai",
+        "average ctc kya hai"
+      ]
+    },
+    {
+      "intent_id": "id_card_lost",
+      "answer": "ID card kho jaye to admin office me application do aur ₹200 fee ke saath duplicate card ban jata hai, 3-4 din lagte hain.",
+      "paraphrases": [
+        "id card kho gaya kya karu",
+        "how to get duplicate id card",
+        "id card lost kaise banwayen",
+        "id card dobara kaise banega"
+      ]
+    },
+    {
+      "intent_id": "fee_payment_mode",
+      "answer": "Fees online (net banking, UPI, card) ya college office me DD ke through bhari ja sakti hai. Cash accept nahi hota.",
+      "paraphrases": [
+        "fees kaise bhare",
+        "how to pay college fees",
+        "fee payment online ho sakti hai kya",
+        "fees jama karne ka tareeka",
+        "fee payment mode kya hai"
+      ]
+    },
+    {
+      "intent_id": "fee_late_payment",
+      "answer": "Fees late deposit karne par per week ₹500 late fine lagta hai, aur 1 mahine se zyada late hone par seat cancel bhi ho sakti hai.",
+      "paraphrases": [
+        "fees late bharne par kya hota hai",
+        "what is the fine for late fee payment",
+        "late fee kitna lagta hai",
+        "fees time pe nahi bhari to"
+      ]
+    },
+    {
+      "intent_id": "attendance_criteria",
+      "answer": "Exam me baithne ke liye minimum 75% attendance zaroori hai. Medical leave ke case me relaxation admin se milti hai.",
+      "paraphrases": [
+        "attendance kitni chahiye",
+        "what is the minimum attendance required",
+        "kitni attendance honi chahiye exam ke liye",
+        "attendance criteria kya hai",
+        "attendance kam ho to kya hoga"
+      ]
+    },
+    {
+      "intent_id": "transport_facility",
+      "answer": "College bus city ke 6 major routes par chalti hai. Bus pass ke liye transport office me form bharna hota hai.",
+      "paraphrases": [
+        "college bus hai kya",
+        "is there a college bus facility",
+        "transport facility available hai kya",
+        "bus pass kaise banega",
+        "college se ghar tak bus milti hai kya"
+      ]
+    }
+  ]
+}
