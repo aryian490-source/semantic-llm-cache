@@ -7,7 +7,7 @@ if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
 
 
-st.title("College Helpdesk — Semantic Cache Demo")
+st.title("College Helpdesk — Semantic Cache")
 
 st.sidebar.header("📊 Stats")
 
