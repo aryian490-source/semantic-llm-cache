@@ -3,6 +3,16 @@ from cache.semantic_cache import wrapper
 
 st.set_page_config(page_title="Semantic Cache Demo", page_icon="🧠", layout="wide")
 
+hide_streamlit_style = """
+    <style>
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    header {visibility: hidden;}
+    </style>
+"""
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
+
+
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
 
